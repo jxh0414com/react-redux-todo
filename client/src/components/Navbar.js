@@ -12,7 +12,7 @@ const Navbar = () => {
 
       <Menu.Menu position="right">
         <Menu.Item name="github">
-          <a href="https://www.github.com">
+          <a href="https://github.com/jxh0414com/react-redux-todo">
             <Icon name="github" />
             Github
           </a>
